@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  text-align:center
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+li:hover{
+  font-size:30px;
+}
