@@ -4,5 +4,6 @@ document.addEventListener('DOMContentLoaded', function() {
     const currentYear = new Date().getFullYear();
     if (yearElement) {
         yearElement.textContent = currentYear;
+        
     }
 });
